@@ -2,7 +2,7 @@
     height: 3.75rem;
     display: flex;
     align-items: center;
-    background-color: #131921;
+    background-color: #595959;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -11,7 +11,7 @@
 .header__logo {
     display: flex;
     align-items: center;
-    color: #ff9f00;
+    color: #BAFF39;
     margin: 0 1.6rem;
 }
 
@@ -43,7 +43,7 @@
 .header__searchIcon {
     padding: 0.3125rem;
     height: 1.375rem !important;
-    background-color: #ff9f00;
+    background-color: #BAFF39;
 }
 
 .header__nav {
@@ -72,13 +72,8 @@
     display: flex;
     align-items: center;
     color: white;
-    margin-right: 0.25rem;
+    margin-right: 1.6rem;
     margin-left: 0.625rem;
-}
-
-.nav__item:last-of-type {
-    flex-direction: unset;
-    align-items: center;
 }
 
 .nav__basketCount {
