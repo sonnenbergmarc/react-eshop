@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/Product.css";
-import acUnitImage from "../img/acunit-720.webp"
+import acUnitImage from "../img/acunit-720.webp";
 
 function Product() {
     return (
